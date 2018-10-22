@@ -4,6 +4,8 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
+//10/10
+
 public class Assignment4 {
 	/*
 	 * Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.
